@@ -1,28 +1,33 @@
-**"안녕하세요** 👨🏻‍💻
+<p>
+   <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yskwon0619@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/yongsu-kwon-a49301239/" target="_blank"><img src="https://img.shields.io/badge/YongSu-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
 
-**호기심 많은 프론트엔드 개발자,** 🐸 **청개구리입니다."**
+<p>
+👋&nbsp; Hello! I'm <strong>Front-end developer</strong> 🚀
 
-`수영`에서 `공학 박사생`, 그리고 현재 `프론트엔드 개발자`가 되기 위해 도전하고 있으며 항상 모든 것에 질문을 던지고 답을 찾기 위해서 공부합니다. 
+🎫 &nbsp;[portfolio](https://bit.ly/3v0iqDq)
+</p>
 
-협업을 위해서 듣고 정리하며, 어제보다 조금 더 성장하기 위해 노력합니다. 
+### 🛠 Skills
+#### Languages & Framework
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-배운 것을 팀원과 공유하는 것을 좋아하며, 사용자에게 재미를 줄 수 있는 인터렉션 웹 개발에 관심이 많습니다.
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/>
 
-`HTML5` `CSS3` `Javascript` `Vue.js` `Nuxt` `Node.js` `Interactive Web`
+   <br>
 
-## About Me
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrog92&theme=tokyonight&layout=compact)
+</p>
 
-## 🙋🏻‍♂️ Personal Info
+![DevFrog's github stats](https://github-readme-stats.vercel.app/api?username=DevFrog92&theme=tokyonight&show_icons=true)
 
-📫 yskwon0619@gmail.com
-
-📞 010-8937-1481
-
-🗺️ 서울 강남구 역삼동
-
-🎫 Notion [포토폴리오](https://bit.ly/3v0iqDq)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevFrog92)
 
 <div align=center>
 
