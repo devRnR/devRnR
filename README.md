@@ -1,6 +1,6 @@
 <p>
    <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yskwon0619@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/yongsu-kwon-a49301239/" target="_blank"><img src="https://img.shields.io/badge/YongSu-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/yongsu-kwon-a49301239/" target="_blank"><img src="https://img.shields.io/badge/yong su-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <p>
