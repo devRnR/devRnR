@@ -23,6 +23,4 @@
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-292929?style=flat-square&logo=React&logoColor=61DBFB"/>
   <br>
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFrog92&theme=tokyonight&layout=compact)
 </p>
