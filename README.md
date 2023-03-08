@@ -1,4 +1,10 @@
-<p>
+<div>
+     <h2>🛠️ Updating...</h2>
+     <img width=300 height=300
+          src="https://cdn.dribbble.com/users/160117/screenshots/3197970/media/1f5c05158cafb49ecca277b87cedcae0.gif"/>
+</div>
+
+<!-- <p>
    <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yskwon0619@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/yongsu-kwon-a49301239/" target="_blank"><img src="https://img.shields.io/badge/yong su-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
@@ -31,3 +37,4 @@
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevFrog92&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+ -->
