@@ -6,16 +6,14 @@
 </p>
 
 <p>
-👋&nbsp; Hello! I am a developer who pursues solid but flexible development. 🚀
+👋&nbsp; Hello! I am a developer who seeks robust yet flexible development. 🚀
 
 <!-- 🎫 &nbsp;[portfolio](https://bit.ly/3v0iqDq) -->
 </p>
 
 
-### Blog
-
-[![Blog Badge](https://img.shields.io/badge/-Blog-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com)](https://ditto-dev.tistory.com)
-<br/>
+### Tech Blog
+<a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a>
 
 ### 🛠 Skills
 
