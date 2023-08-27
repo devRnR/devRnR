@@ -27,27 +27,21 @@
 <div>
      <h4>Frontend</h4>
      <p>
-       <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,vue,nuxt,jest" />
-       </a>
      </p>
 </div>
 
 <div>
      <h4>Backend</h4>
      <p>
-       <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=java,spring" />
-       </a>
      </p>
 </div>
 
 <div>
      <h4>Etc</h4>
      <p>
-       <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=python,git,github" />
-       </a>
      </p>
 </div>
 
