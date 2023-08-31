@@ -19,9 +19,7 @@
 <div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
-       <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=docker,redis,mysql,dart,flutter" />
-       </a>
      </p>
 </div>
 <div>
