@@ -12,7 +12,7 @@
      <p>
           <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/yongsu-kwon-a49301239/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
-          <a href="https://bit.ly/3v0iqDq" target="_blank"><img src="https://img.shields.io/badge/NOTION-FFFFFF?logo=Notion&logoColor=black"/></a>
+          <a href="https://www.notion.so/d4e25e1c23fa4640b609c402954d9e72?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-FFFFFF?logo=Notion&logoColor=black"/></a>
           <a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a>
      </p>
 </div>
