@@ -20,7 +20,7 @@
 <div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=docker,redis,mysql,dart,flutter" />
+         <img src="https://skillicons.dev/icons?i=mysql,go" />
      </p>
 </div>
 <div>
