@@ -33,14 +33,14 @@
 <div>
      <h4>Backend</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=java,spring" />
+         <img src="https://skillicons.dev/icons?i=java,spring,python" />
      </p>
 </div>
 
 <div>
      <h4>Etc</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=python,git,github" />
+         <img src="https://skillicons.dev/icons?i=git,github" />
      </p>
 </div>
 
