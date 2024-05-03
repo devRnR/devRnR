@@ -11,7 +11,7 @@
 <div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=mysql,go,redis,hibernate" />
+         <img src="https://skillicons.dev/icons?i=mysql,go,redis,aws" />
      </p>
 </div>
 <div>
@@ -24,7 +24,7 @@
 <div>
      <h4>Backend</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=java,spring,python,docker" />
+         <img src="https://skillicons.dev/icons?i=java,spring,python,docker,hibernate" />
      </p>
 </div>
 
