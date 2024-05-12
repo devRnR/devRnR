@@ -4,6 +4,9 @@
           <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/yongsu-kwon" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a>
           <a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a>
+          <a href="https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub">
+               <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"/>
+          </a>
      </span>
 </div>
 <hr>
