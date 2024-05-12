@@ -35,7 +35,7 @@
 </div>
 
 <div>
-     <h4>Certificate</h4>
+     <h4>Certificate</h4>
      <p>
          <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
      </p>
