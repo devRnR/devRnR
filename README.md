@@ -11,6 +11,12 @@
 </div>
 <hr>
 <div>
+     <h3>Blog posts</h3>
+     <!-- BLOG-POST-LIST:START -->
+     <!-- BLOG-POST-LIST:END -->
+</div>
+<hr>
+<div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
           <img src="https://skillicons.dev/icons?i=mysql,go,redis,aws" />
