@@ -13,35 +13,38 @@
 <div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
-         <img src="https://skillicons.dev/icons?i=mysql,go,redis,aws" />
+          <img src="https://skillicons.dev/icons?i=mysql,go,redis,aws" />
      </p>
 </div>
+<br/>
 <div>
-     <h4>Frontend</h4>
-     <p>
-         <img src="https://skillicons.dev/icons?i=scss,javascript,typescript,vue,nuxt" />
-     </p>
+     <h3>Languages and Tools</h3>
+     <div>
+          <h4>Frontend</h4>
+          <p>
+              <img src="https://skillicons.dev/icons?i=scss,javascript,typescript,vue,nuxt" />
+          </p>
+     </div>
+     <div>
+          <h4>Backend</h4>
+          <p>
+              <img src="https://skillicons.dev/icons?i=java,spring,python,docker,hibernate" />
+          </p>
+     </div>   
+     <div>
+          <h4>Etc</h4>
+          <p>
+              <img src="https://skillicons.dev/icons?i=git,github" />
+          </p>
+     </div>
 </div>
 
 <div>
-     <h4>Backend</h4>
-     <p>
-         <img src="https://skillicons.dev/icons?i=java,spring,python,docker,hibernate" />
-     </p>
-</div>
-
-<div>
-     <h4>Etc</h4>
-     <p>
-         <img src="https://skillicons.dev/icons?i=git,github" />
-     </p>
-</div>
-
-<div>
-     <h4>Certificate</h4>
-     <p>
-         <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
-     </p>
+     <h3>Certificate</h3>
+          <p>
+              <img width="100" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+          </p>
+     </div>
 </div>
 
 <div align="right">
