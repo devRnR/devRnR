@@ -1,16 +1,16 @@
 <div align="left">
      <h1>Hi there 👋 I am a developer who is curious about everything 🚀</h1>
-     <h3>Contact me 🙌</h3>
+<!--      <h3>Contact me 🙌</h3> -->
      <span>
-          <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a>
+<!--           <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a> -->
 <!--           <a href="https://www.linkedin.com/in/yongsu-kwon" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a> -->
-          <a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a>
+<!--           <a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a> -->
 <!--           <a href="https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"> -->
 <!--                <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"/> -->
-          </a>
+<!--           </a> -->
      </span>
 </div>
-<hr>
+<!-- <hr> -->
 <!-- <div>
      <h3>Projects</h3>
      <ul>
@@ -19,7 +19,7 @@
      </ul>
 </div>
 <hr> -->
-<div>
+<!-- <div>
      <h3>🌱  I'm currently learning ...</h4>
      <p>
           <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -28,7 +28,7 @@
           <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
      </p>
-</div>
+</div> -->
 <div>
      <h3>Languages and Tools</h3>
      <div>
@@ -40,6 +40,7 @@
           <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
      </div>   
      <div>
           <h4>Frontend</h4>
