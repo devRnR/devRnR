@@ -1,5 +1,6 @@
 <div align="left">
-     <h1>Hi there 👋 I am a developer who is curious about everything 🚀</h1>
+     <h1>Close 🔒</h1>
+<!--      <h1>Hi there 👋 I am a developer who is curious about everything 🚀</h1> -->
 <!--      <h3>Contact me 🙌</h3> -->
      <span>
 <!--           <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a> -->
