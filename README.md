@@ -34,21 +34,17 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ## Featured projects
 
-### 🚚 [dispatch-server](https://github.com/devRnR/dispatch-server)
+### 🚚 WIP [dispatch-server]
 배송/배차 문제를 다루는 백엔드 서버 프로젝트입니다.  
 비동기 처리와 도메인 분리를 어떻게 설계할지 고민한 결과를 담고 있습니다.
 
-### 🗺️ [dispatch-web](https://github.com/devRnR/dispatch-web)
+### 🗺️ WIP [dispatch-web]
 배차/운영 관점의 웹 프로젝트입니다.  
 도메인 흐름을 UI와 어떻게 연결할지 실험하고 있습니다.
 
-### 🧩 [h3-prototype](https://github.com/devRnR/h3-prototype)
-H3 기반 공간 인덱싱과 지리공간 모델링을 실험하는 프로젝트입니다.  
-지도 좌표와 도메인 모델을 더 잘 연결하는 방법을 탐구합니다.
-
-### 🧮 [coding-test](https://github.com/devRnR/coding-test)
-알고리즘과 문제 해결 기록 저장소입니다.  
-기초 체력과 사고력을 꾸준히 다지는 용도로 운영하고 있습니다.
+### 🎟️ [Select-Seat-Project](https://github.com/devRnR/Select-Seat-Project)
+대기열/동시성 관점의 웹 프로젝트입니다.
+대규모 트래픽에의 대기열과 동시성 문제 해결에 대해 고민한 결과를 담고 있습니다.
 
 ---
 
