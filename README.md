@@ -1,75 +1,66 @@
-<div align="left">
-     <h1>Close 🔒</h1>
-<!--      <h1>Hi there 👋 I am a developer who is curious about everything 🚀</h1> -->
-<!--      <h3>Contact me 🙌</h3> -->
-     <span>
-<!--           <a href="mailto:yskwon0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white"/></a> -->
-<!--           <a href="https://www.linkedin.com/in/yongsu-kwon" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?logo=Linkedin&logoColor=white"/></a> -->
-<!--           <a href="https://ditto-dev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-TECHBLOG-EA4335?logo=tistory&logoColor=white&link=https://ditto-dev.tistory.com"/></a> -->
-<!--           <a href="https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"> -->
-<!--                <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vSssG50XnqXTEBetSQBQ-mIeDexC7ahnViIor2uTAPUx4MJVwXervNgYe-T2LpTys0WlDmoC-WcRXtA/pub"/> -->
-<!--           </a> -->
-     </span>
-</div>
-<!-- <hr> -->
-<!-- <div>
-     <h3>Projects</h3>
-     <ul>
-          <li><a href="https://github.com/Dittttto/Select-Seat-Project">이선좌: 이미 선택된 좌석입니다</a></li>
-          <li><a href="https://github.com/Dittttto/spring-boot-chat-application">실시간 채팅 애플리케이션</a></li>
-     </ul>
-</div>
-<hr> -->
-<!-- <div>
-     <h3>🌱  I'm currently learning ...</h4>
-     <p>
-          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-          <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-     </p>
-</div> -->
-<!-- <div>
-     <h3>Languages and Tools</h3>
-     <div>
-          <h4>Backend</h4>
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-          <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-     </div>   
-     <div>
-          <h4>Frontend</h4>
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-          <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
-          <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-          <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-     </div>
-     <div>
-          <h4>Etc</h4>
-          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-     </div>
-</div>
+# LogCat 🐾
 
-<div>
-     <h3>Certificate</h3>
-          <p>
-              <img width="80" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
-          </p>
-     </div>
-</div>
+백엔드에서 **복잡한 문제**를 구조적으로 푸는 개발자입니다.  
+배송/배차 도메인, 비동기 처리, 지리 정보 모델링, 그리고 JVM 기반 서버 설계에 관심이 많습니다.
 
-<div align="right">
+---
 
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevFrog92&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-   
-</div> -->
+## About me
+
+- Kotlin / Java / Spring Boot 기반 백엔드 개발
+- 비동기 처리, 동시성, 배치 시스템 설계
+- GeoJSON, Polygon, H3 같은 지리 공간 모델링에 관심
+- "동작하는 코드"보다 "설명 가능한 설계"를 더 중요하게 생각합니다
+
+---
+
+## Focus
+
+- Dispatch / Assignment / Route optimization
+- JVM internals and concurrency
+- Geospatial domain modeling
+- Maintainable backend architecture
+
+---
+
+## Tech
+
+**Languages**  
+Kotlin, Java, Python  
+
+**Backend / Infra**  
+Spring Boot, JOOQ, PostgreSQL, MySQL, Redis, Docker, AWS, GitHub Actions  
+
+**Interests**  
+JVM, Bytecode, Happens-Before, Batch Processing, Domain Modeling, Geospatial Data
+
+---
+
+## Featured projects
+
+### 🚚 [dispatch-server](https://github.com/devRnR/dispatch-server)
+배송/배차 문제를 다루는 백엔드 서버 프로젝트
+
+### 🗺️ [dispatch-web](https://github.com/devRnR/dispatch-web)
+배차/운영 관점의 웹 프로젝트
+
+### 🧩 [h3-prototype](https://github.com/devRnR/h3-prototype)
+H3 기반 공간 인덱싱과 지오스페이셜 모델링 실험
+
+### 🧮 [coding-test](https://github.com/devRnR/coding-test)
+알고리즘과 문제 해결 기록
+
+---
+
+## Currently
+
+- 배차/배송 도메인 모델 개선
+- 공간 데이터 표현 방식 탐구
+- 더 읽기 좋은 설계와 문서화 방법 정리
+
+---
+
+## Contact
+
+- Email: [yskwon0619@gmail.com](mailto:yskwon0619@gmail.com)
+- GitHub: [https://github.com/devRnR](https://github.com/devRnR)
