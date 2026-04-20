@@ -74,6 +74,14 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ---
 
+## Alhorithm
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/LogBlackCat?theme=dark)  <br/>
+[![Solved.ac 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdldjdy)](https://solved.ac/dkdpdldjdy)
+
+
+---
+
 ## Contact
 
 - Blog: [ditto-dev.tistory.com](https://ditto-dev.tistory.com/)
