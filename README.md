@@ -53,13 +53,16 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 - 배송 권역 시각화 시스템을 설계하며 고민한 것들  
   https://ditto-dev.tistory.com/103
 
+- 배송 권역 자동 배차 시스템을 설계하며 고민한 것들  
+  https://ditto-dev.tistory.com/106
+
 - 자바 synchronized 를 바이트코드로 까보며 이해하기  
   https://ditto-dev.tistory.com/102
 
 - DB 개인정보 암호화 시스템 구축기: AES‑256‑GCM + Blind Index  
   https://ditto-dev.tistory.com/99
 
-- [Spring Batch] Spring Batch 6 도입 중 Chunk 기반 처리 버그 디버깅 및 6.0.1 패치 적용  
+- Spring Batch 6 도입 중 Chunk 기반 처리 버그 디버깅 및 6.0.1 패치 적용  
   https://ditto-dev.tistory.com/97
 
 ---
