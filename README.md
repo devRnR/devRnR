@@ -8,15 +8,14 @@
 
 ---
 
-## What I care about
-
-- 복잡한 도메인을 설명 가능한 구조로 바꾸는 일
-- 비동기 처리, 동시성, 배치 시스템 설계
-- GeoJSON, Polygon, H3 기반 지리 공간 모델링
-- 운영 중인 배치에서 미묘한 버그나 성능 이슈를 찾아내고, 원인 분석 글로 남기는 일
-- 보안과 개인정보 보호를 고려한 설계(암호화, 키 관리 등)
-- 구현 자체보다, 왜 이런 구조를 선택했는지 끝까지 설명하는 글쓰기
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=devRnR&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/devRnR?pet-id=838379760482649875"
+    width="600"
+    height="200"
+  />
+</a>
+ 
 ---
 
 ## Tech
@@ -51,10 +50,10 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 ## Writing
 
 - 배송 권역 시각화 시스템을 설계하며 고민한 것들  
-  https://ditto-dev.tistory.com/103
+  https://ditto-dev.tistory.com/109
 
-- 배송 권역 자동 배차 시스템을 설계하며 고민한 것들  
-  https://ditto-dev.tistory.com/106
+- Redis 1차 필터 + Optimistic Lock + UPSERT로 Oversell 0건 만든 타임딜 재고 차감 시스템 (Kotlin/Spring/PostgreSQL)  
+  https://ditto-dev.tistory.com/110
 
 - 자바 synchronized 를 바이트코드로 까보며 이해하기  
   https://ditto-dev.tistory.com/102
@@ -79,7 +78,7 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ## Alhorithm
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LogBlackCat?theme=dark)  <br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/LogBlackCat?theme=dark)
 [![Solved.ac 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdldjdy)](https://solved.ac/dkdpdldjdy)
 
 
