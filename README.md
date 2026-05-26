@@ -31,22 +31,6 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ---
 
-## Featured projects
-
-### 🚚 WIP [dispatch-server]
-배송/배차 문제를 다루는 백엔드 서버 프로젝트입니다.  
-비동기 처리와 도메인 분리를 어떻게 설계할지 고민한 결과를 담고 있습니다.
-
-### 🗺️ WIP [dispatch-web]
-배차/운영 관점의 웹 프로젝트입니다.  
-도메인 흐름을 UI와 어떻게 연결할지 실험하고 있습니다.
-
-### 🎟️ [Select-Seat-Project](https://github.com/devRnR/Select-Seat-Project)
-대기열/동시성 관점의 웹 프로젝트입니다.
-대규모 트래픽에의 대기열과 동시성 문제 해결에 대해 고민한 결과를 담고 있습니다.
-
----
-
 ## Writing
 
 - 배송 권역 시각화 시스템을 설계하며 고민한 것들  
@@ -73,14 +57,6 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 - 운영 중 배치 버그/성능 이슈 분석 및 정리
 - AI 도구를 활용한 설계–실험–검증 워크플로우 정리
 - 더 읽기 좋은 설계와 문서화 방법 정리
-
----
-
-## Alhorithm
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/LogBlackCat?theme=dark)
-[![Solved.ac 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdpdldjdy)](https://solved.ac/dkdpdldjdy)
-
 
 ---
 
