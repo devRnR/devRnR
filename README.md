@@ -21,10 +21,10 @@
 ## Tech
 
 **Languages**  
-Kotlin, Java, Python  
+Kotlin, Java, Python, Golang
 
 **Backend / Infra**  
-Spring Boot, JOOQ, PostgreSQL, MySQL, Redis, Docker, AWS, GitHub Actions  
+Spring Boot, JPA, JOOQ, PostgreSQL, MySQL, Redis, Docker, AWS
 
 **Interests**  
 Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch Processing, Security, AI-assisted Development
@@ -52,9 +52,6 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ## Currently
 
-- 배차/배송 도메인 모델 개선
-- 공간 데이터 표현 방식 탐구
-- 운영 중 배치 버그/성능 이슈 분석 및 정리
 - AI 도구를 활용한 설계–실험–검증 워크플로우 정리
 - 더 읽기 좋은 설계와 문서화 방법 정리
 
