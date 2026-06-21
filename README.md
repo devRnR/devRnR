@@ -31,25 +31,6 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ---
 
-## Writing
-
-- 배송 권역 시각화 시스템을 설계하며 고민한 것들  
-  https://ditto-dev.tistory.com/109
-
-- Redis 1차 필터 + Optimistic Lock + UPSERT로 Oversell 0건 만든 타임딜 재고 차감 시스템 (Kotlin/Spring/PostgreSQL)  
-  https://ditto-dev.tistory.com/110
-
-- 자바 synchronized 를 바이트코드로 까보며 이해하기  
-  https://ditto-dev.tistory.com/102
-
-- DB 개인정보 암호화 시스템 구축기: AES‑256‑GCM + Blind Index  
-  https://ditto-dev.tistory.com/99
-
-- Spring Batch 6 도입 중 Chunk 기반 처리 버그 디버깅 및 6.0.1 패치 적용  
-  https://ditto-dev.tistory.com/97
-
----
-
 ## Currently
 
 - AI 도구를 활용한 설계–실험–검증 워크플로우 정리
@@ -59,6 +40,6 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 ## Contact
 
-- Blog: [ditto-dev.tistory.com](https://ditto-dev.tistory.com/)
+- Blog: [ditto-dev.tistory.com](https://logcat-io.github.io/)
 - Email: [yskwon0619@gmail.com](mailto:yskwon0619@gmail.com)
-- GitHub: [github.com/devRnR](https://github.com/devRnR)
+- GitHub: [github.com/logcat-io](https://github.com/logcat-io)
