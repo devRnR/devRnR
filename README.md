@@ -45,4 +45,3 @@ Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch
 
 - Blog: [logcat-io.github.io](https://logcat-io.github.io)
 - Email: [yskwon0619@gmail.com](mailto:yskwon0619@gmail.com)
-- GitHub: [github.com/logcat-io](https://github.com/logcat-io)
