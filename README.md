@@ -1,47 +1,35 @@
-# LogCat 🐾
+# LogCat 
 
-도메인 문제를 구조로 해석하고, </br>
-그 구조를 실행 가능한 시스템으로 구현하는 백엔드 개발자입니다.
+> Backend engineer building reliable systems under real-world constraints.
 
-화려한 설계보다 안 터지는 설계를 선택합니다. </br>
-정합성·동시성·장애를 프레임워크 내부까지 파고들어 직접 해결해왔습니다.
+Hi, I'm LogCat 👋  
+I’m interested in building dependable backend systems, with a focus on concurrency and data consistency.
 
-새로운 기술과 개념을 공부하는 걸 좋아해, 책으로 기본기를 쌓고, </br>
-AI로 학습 문서를 만들며 내부 동작의 이해까지 차근차근 따라가고 있습니다.
+### Core Stack
 
-현재는 AI 도구를 활용해 설계–실험–검증의 경계를 줄이고, </br>
-빠르게 가설을 검증하는 개발 방식을 지향합니다.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring&theme=dark" />
+</p>
 
-<!-- ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=devRnR&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/devRnR?pet-id=838379760482649875"
-    width="600"
-    height="200"
-  />
-</a>
- 
----
--->
+### Data & Platform
 
-## Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker&theme=dark" />
+</p>
 
-**Languages**  
-Kotlin, Java, Python, Golang
+### Currently Exploring
 
-**Backend / Infra**  
-Spring Boot, JPA, JOOQ, PostgreSQL, MySQL, Redis, Docker, AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=go,py&theme=dark" />
+</p>
 
-**Interests**  
-Dispatch, Route Optimization, Geospatial Data, JVM Internals, Concurrency, Batch Processing, Security, AI-assisted Development
 
-## Currently
+### Elsewhere
 
-- AI 도구를 활용한 설계–실험–검증 워크플로우 정리
-- 더 읽기 좋은 설계와 문서화 방법 정리
+[![Blog](https://img.shields.io/badge/Blog-Technical%20Notes-181717?style=flat-square&logo=github&logoColor=white)](https://your-blog-url.com)
+[![Email](https://img.shields.io/badge/Email-yskwon0619%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yskwon0619@gmail.com)
 
-## Contact
+<br />
 
-- Blog: [logcat-io.github.io](https://logcat-io.github.io)
-- Email: [yskwon0619@gmail.com](mailto:yskwon0619@gmail.com)
+<sub>Building systems that remain correct under load, failure, and concurrency.</sub>
