@@ -18,6 +18,12 @@ I’m interested in building dependable backend systems, with a focus on concurr
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker&theme=dark" />
 </p>
 
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs,nuxtjs&theme=dark" />
+</p>
+
 ### Currently Exploring
 
 <p>
