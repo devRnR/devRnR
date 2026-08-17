@@ -27,7 +27,7 @@ I’m interested in building dependable backend systems, with a focus on concurr
 
 ### Elsewhere
 
-[![Blog](https://img.shields.io/badge/Blog-Technical%20Notes-181717?style=flat-square&logo=github&logoColor=white)](https://your-blog-url.com)
+[![Blog](https://img.shields.io/badge/Blog-Technical%20Notes-181717?style=flat-square&logo=github&logoColor=white)](https://logcat-io.github.io/)
 [![Email](https://img.shields.io/badge/Email-yskwon0619%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yskwon0619@gmail.com)
 
 <br />
